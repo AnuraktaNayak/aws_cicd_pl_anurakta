@@ -1,0 +1,5 @@
+Create a Access key and Access Secret key
+generate the key by clicking under your account name .
+Set them at Environment variable in windows
+AWS_ACCESS_KEY_ID
+AWS_SECRET_KEY
